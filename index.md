@@ -22,6 +22,7 @@ criando **minha**_pagina_~~principal~~
 
 ![n sei](https://i.pinimg.com/originals/23/7e/fa/237efa511f48f6af492399ba74fecf19.jpg)   
 
+![](GoCornGo.png)  
 
 ## Projetos  
 
