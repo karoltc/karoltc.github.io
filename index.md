@@ -7,7 +7,8 @@ criando **minha**_pagina_~~principal~~
 * * *
 
 # Quem sou eu?
- Aluna de jogos digitais aprendendo a fazer um portfólio com o professor maravilhoso Marcelo.
+
+ Meu nome é karolina Trindade, tenho 18 anos e atualmente estou cursando jogos digitais no instituto IFRN.  
  
  * * *
  
