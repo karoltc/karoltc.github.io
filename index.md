@@ -8,7 +8,8 @@ criando **minha**_pagina_~~principal~~
 
 # Quem sou eu?
 
- Meu nome é karolina Trindade, tenho 18 anos e atualmente estou cursando jogos digitais no instituto IFRN.  
+ Meu nome é karolina Trindade, tenho 18 anos e atualmente estou cursando jogos digitais no instituto IFRN. 
+ 
  
  * * *
  
@@ -26,6 +27,8 @@ criando **minha**_pagina_~~principal~~
 [![](CancunTemple.png)](https://alessandrats.github.io/CancunsTemple/)  
 
 [![](JogandoLixo.png)](https://alessandrats.github.io/JogandoOLixo/)  
+
+[![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
 
 
 
