@@ -12,12 +12,20 @@ criando **minha**_pagina_~~principal~~
  
  * * *
  
+# Redes sociais  
+
+ ![Twitter](https://twitter.com/Karollt2)
+ 
+ ![Instagram](https://www.instagram.com/karollt2/)
+
+ ![facebook](https://www.facebook.com/Karollt2)  
+ 
 # portfólio
 
 ## Games  
-[![](GoCornGo.png)]()  
+[![](GoCornGo.png)](https://jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 
-![](https://jadsamiamedeiros.github.io/Musibox/)
+[![](musibox.png)](https://jadsamiamedeiros.github.io/Musibox/)
 
 
 
