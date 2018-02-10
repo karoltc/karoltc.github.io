@@ -15,6 +15,10 @@ criando **minha**_pagina_~~principal~~
  
 # Redes sociais  
 
+**Twitter e instagram:** @karollt2  
+**Facebook:** Karol Costa
+
+
  
 # portfólio
 
