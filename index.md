@@ -23,7 +23,7 @@ criando **minha**_pagina_~~principal~~
 
 [![](musibox.png)](https://jadsamiamedeiros.github.io/Musibox/)  
 
-[![](Cancun's Temple.png)](https://alessandrats.github.io/CancunsTemple/)
+[![](CancunTemple.png)](https://alessandrats.github.io/CancunsTemple/)
 
 
 ## Artes  
