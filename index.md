@@ -18,7 +18,7 @@ criando **minha**_pagina_~~principal~~
  
  ![Instagram](https://www.instagram.com/karollt2/)
 
- ![facebook](https://www.facebook.com/Karollt2)  
+ ![facebook](https://www.facebook.com/Karollt2  
  
 # portfólio
 
