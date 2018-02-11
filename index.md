@@ -37,11 +37,16 @@ criando **minha**_pagina_~~principal~~
 
 
 
-## Artes      
+## Artes  
+_Artes do jogo Cancun's temple._
 
 ![sapo](sapão.png)  
 
-![crocodilo](crocodilo.png)
+![crocodilo](crocodilo.png)  
+
+![macaco](macaco.png)
+
+
   
 
 ## Projetos  
