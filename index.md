@@ -8,7 +8,8 @@ criando **minha**_pagina_~~principal~~
 
 # Quem sou eu?
 
- Meu nome é karolina Trindade, tenho 18 anos e atualmente estou cursando jogos digitais no instituto IFRN. 
+ _Meu nome é karolina Trindade, tenho 18 anos e atualmente estou cursando jogos digitais no instituto IFRN.  
+ Esse portfólio tem como obejetivo principal apresentar alguns dos meus trabalhos e artes desenvolvidos no curso. Espero que gostem!_
  
  
  * * *
@@ -38,7 +39,7 @@ criando **minha**_pagina_~~principal~~
 
 
 ## Artes  
-_Artes do jogo Cancun's temple._
+_Algumas artes do jogo Cancun's temple._
 
 ![sapo](sapão.png)  
 
@@ -49,6 +50,9 @@ _Artes do jogo Cancun's temple._
 ![templo](templo1.png)  
 
 ![morcego](Morcego.png)  
+
+_Algumas artes do Jogo Musibox_
+
 
 
 
