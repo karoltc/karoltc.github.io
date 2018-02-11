@@ -44,11 +44,15 @@ _Artes do jogo Cancun's temple._
 
 ![crocodilo](crocodilo.png)  
 
-![macaco](macaco.png)
+![macaco](macaco.png)  
+
+![templo](templo1.png)  
+
+![morcego](Morcego.png)  
+
 
 
   
-
 ## Projetos  
 
 ### Aulas
