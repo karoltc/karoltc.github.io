@@ -44,7 +44,9 @@ criando **minha**_pagina_~~principal~~
 
 **Influence Map**  
 
-![](influencemap.jpg)    
+![](influencemap.jpg)  
+
+* * *  
 
 _Algumas artes do jogo Cancun's temple._
 
