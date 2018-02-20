@@ -19,7 +19,8 @@ criando **minha**_pagina_~~principal~~
 # Redes sociais  
 
 **Twitter e instagram:** @karollt2  
-**Facebook:** Karol Costa
+**Facebook:** Karol Costa  
+**E-mail:** karolinatrindade3@gmail.com  
 
 
  
