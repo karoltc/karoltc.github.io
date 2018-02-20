@@ -16,8 +16,8 @@ layout: default
  
 # Redes sociais  
 
-**Twitter e instagram:** @karollt2  
-**Facebook:** Karol Costa  
+**Instagran:** @karollt2
+**Facebook:** Karol Costa    
 **E-mail:** karolinatrindade3@gmail.com  
 
 
