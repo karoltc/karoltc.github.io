@@ -2,7 +2,7 @@
 layout: default
 ---
 
-criando **minha**_pagina_~~principal~~
+criando **minha pagina principal**
 
 * * *
 
@@ -70,19 +70,5 @@ _Algumas artes do jogo Cancun's temple._
 ## Projetos  
 
 ![Projeto Integrador](ProjetoIntegradoTowerDefense.docx)  
-
-### Aulas
-
-* * *
-
-# Observação:
-
-** Negrito  
-__ itálico  
-~~ Riscado  
-3 * linha horizontal (barra)  
-#s topicos ou subtopicos   
-*' adiciona lista não ordenada   
-1s Criam listas ordenadas  
 
 * * *
