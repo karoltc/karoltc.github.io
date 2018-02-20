@@ -67,6 +67,14 @@ _Algumas artes do jogo Cancun's temple._
   
 ## Projetos  
 
-![Projeto Integrador](ProjetoIntegradoTowerDefense.docx)  
+![Projeto Integrador](ProjetoIntegradoTowerDefense.docx)    
+
 
 * * *
+
+Melhor turma do IFRN-CM você vê aqui!  
+
+[![](PJD3V)]()  
+
+* * * 
+
