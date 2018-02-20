@@ -2,8 +2,6 @@
 layout: default
 ---
 
-criando **minha pagina principal**
-
 * * *
 
 # Quem sou eu?  
