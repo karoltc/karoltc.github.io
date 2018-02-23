@@ -25,6 +25,7 @@ layout: default
 # portfólio
 
 ## Games  
+_Clique e divirta-se!_  
 
 [![](GoCornGo.png)](https://jadsamiamedeiros.github.io/GoCornGoOriginal/)  
 
