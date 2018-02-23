@@ -73,7 +73,7 @@ _Algumas artes do jogo Cancun's temple._
   
 ## Projetos  
 
-![Projeto Integrador](ProjetoIntegradoTowerDefense.docx)    
+![](ProjetoIntegradoTowerDefense.docx)    
 
 
 * * *
