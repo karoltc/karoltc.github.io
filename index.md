@@ -50,7 +50,9 @@ _"Animações dessenvolvidas na matéria de Animação e multimídia"_
 
 ![](sapo-atacando.gif)  
 
-* * *
+* * *  
+ 
+
 
 
 ## Artes  
