@@ -16,9 +16,9 @@ layout: default
  
 # Redes sociais  
 
-**Instagran:** @karollt2
-**Facebook:** Karol Costa    
-**E-mail:** karolinatrindade3@gmail.com  
+**Instagran:** @karollt2  
+**Facebook:** Karol Costa      
+**E-mail:** karolinatrindade3@gmail.com    
 
 
  
@@ -36,7 +36,13 @@ layout: default
 
 [![](TeethDefense.png)](https://alessandrats.github.io/TeethDefense/)
 
+* * *  
 
+## Animações  
+
+_"Animações dessenvolvidas na matéria de Animação e multimídia"_  
+
+![](sapo-andando.gif)    
 
 
 ## Artes  
