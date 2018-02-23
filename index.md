@@ -42,7 +42,15 @@ layout: default
 
 _"Animações dessenvolvidas na matéria de Animação e multimídia"_  
 
-![](sapo-andando.gif)    
+![](sapo-andando.gif)  
+
+![](sapo-correndo.gif)  
+
+![](sapo-pulando.gif)  
+
+![](sapo-atacando.gif)  
+
+* * *
 
 
 ## Artes  
