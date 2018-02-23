@@ -51,7 +51,13 @@ _"Animações dessenvolvidas na matéria de Animação e multimídia"_
 ![](sapo-atacando.gif)  
 
 * * *  
- 
+![](andando.gif)  
+
+![](atacando.gif)  
+
+![](correndo.gif)  
+
+![](pulando.gif)  
 
 
 
